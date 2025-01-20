@@ -32,7 +32,7 @@ export const Hero = () => {
             <Image
               src={CogImage}
               alt="Cog image"
-              className="md:absolute md:h-full md:w-auto md:max-w-none md:-left-6 lg:left-0"
+              className="md:absolute md:h-full md:w-auto md:max-w-none md:-left-6 lg:left-0 "
             />
             <Image
               src={CylinderImage}
